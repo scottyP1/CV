@@ -1,0 +1,28 @@
+
+body {
+    background-color: #F4EEFF;
+
+}
+
+h1 {
+    color: #424874;
+}
+
+h2 {
+    color: #424874;
+}
+
+h3 {
+    color: #424874;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #2B3467;
+    border-width: 10px;
+    width: 10%;
+}
+p {
+    color: #424874;
+    font-size: large;
+}
+
